@@ -1,7 +1,7 @@
 <div style="display: inline-block;">
 <img width 100% src = alt="Typing SVG" >
 <br>
-  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Gustavo;I+am+16+years+old;Welcome+to+my+profile!" alt="Typing SVG">
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&left=true&left=true&random=false&width=500&lines=Hi,+my+name+is+Gustavo;I+am+16+years+old.;Welcome+to+my+profile!" alt="Typing SVG">
 <br>
 <img  width= 50% align="right" src="https://github-readme-stats.vercel.app/api?username=kgsilva7&show_icons=true&theme=dracula">
   <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgsilva7&layout=compact&hide_border=false&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe"/>
