@@ -1,4 +1,5 @@
 <br clear="both">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=021dfe&height=120&section=header"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kgsilva7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
@@ -53,5 +54,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kgsilva7/count.svg?"  />
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=021dfe&height=120&section=footer"/>
 
 ###
