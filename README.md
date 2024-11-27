@@ -47,6 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
+###
+
+<br clear="both">
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/kgsilva7/count.svg?"  />
 </div>
