@@ -56,6 +56,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kgsilva7/count.svg?"  />
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201aae&height=120&section=footer"/>
