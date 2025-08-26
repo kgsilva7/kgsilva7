@@ -2,8 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201aae&height=120&section=header"/>
 <div align="left">
   <div style="display: flex";>
-<h1> I'm 17 years old and I’m Currently studying Technical Education in Systems Development at the ETEC ZONA LESTE. </h1>
-  <hr>
   <h2>Social Medias:</h2>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
