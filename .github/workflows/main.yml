@@ -31,7 +31,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ kgsilva7 }}
           outputs: |
            dist/github-contribution-grid-snake.svg?color_snake=red&color_dots=#ffb3b3,#ff6666,#ff4d4d,#ff3333,#e60000
            dist/github-contribution-grid-snake.gif?color_snake=red&color_dots=#ffb3b3,#ff6666,#ff4d4d,#ff3333,#e60000
