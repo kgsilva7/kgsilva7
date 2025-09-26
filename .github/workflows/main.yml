@@ -37,7 +37,7 @@ jobs:
            dist/github-contribution-grid-snake.gif?color_snake=#fbf7f8&color_dots=#8a2be2,#fefdfa,#f5f5f5,#fefefa,#fbf7f8
       
         env:
-           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Show build status
         run: git status
@@ -50,4 +50,5 @@ jobs:
           commit_message: Update snake animations
         env:
 
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
