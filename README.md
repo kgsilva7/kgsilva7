@@ -1,5 +1,4 @@
 <br clear="both">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=header"/>
 <h1> 💻 <strong>Gustavo | FullStack Developer</strong> </h1>
 <h2>A Little About Me:</h2>
 - (B1) Intermediate Level in English – Currently studying at the WIZARD school. <br>
@@ -94,4 +93,4 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kgsilva7/kgsilva7/output/github-contribution-grid-snake.svg"/>
 </div>
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=125&section=footer"/>
