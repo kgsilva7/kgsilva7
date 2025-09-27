@@ -1,5 +1,5 @@
 <br clear="both">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201aae&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 <div align="left">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kgsilva7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
@@ -84,4 +84,4 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kgsilva7/kgsilva7/output/github-contribution-grid-snake.svg"/>
 </div>
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201aae&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
