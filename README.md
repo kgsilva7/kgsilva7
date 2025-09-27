@@ -1,8 +1,8 @@
 <br clear="both">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 
-## 💻 <strong>Gustavo | FullStack Developer</strong>
-## <h3>A Little About Me:</h3>
+## <h1> 💻 <strong>Gustavo | FullStack Developer</strong> </h1>
+## <h2>A Little About Me:</h2>
 - (B1) Intermediate Level in English – Currently studying at the WIZARD school. <br>
 - Working to solve technology problems and viable solutions for use.  <br>
 - Interested in FullStack development and developing web solutions. <br>
