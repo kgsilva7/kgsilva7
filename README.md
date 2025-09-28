@@ -93,4 +93,7 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kgsilva7/kgsilva7/output/github-contribution-grid-snake.svg"/>
 </div>
 <div align="center">
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kgsilva7.kgsilva7&left_color=purple&right_color=purple"  />
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=125&section=footer"/>
