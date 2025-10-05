@@ -96,4 +96,4 @@
   <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kgsilva7.kgsilva7&left_color=purple&right_color=purple"  />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=125&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=135&section=footer"/>
