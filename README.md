@@ -24,7 +24,7 @@
 <div style="display: flex";>
 <h2>Social Medias:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,gmail,instagram,discord" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=github,linkedin,gmail,instagram,discord,twitter" align="center" /> <br> <br> 
    <br>
 </div> 
 <h2>Integrated Development Environments (IDE):</h2>
