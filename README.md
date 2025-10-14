@@ -44,7 +44,7 @@
 </div> 
   <h2>Frameworks:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,react,sequelize" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=bootstrap,sequelize,nodejs,react" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Tools:</h2>
