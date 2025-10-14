@@ -44,12 +44,12 @@
 </div> 
   <h2>Frameworks:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,sequelize" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,react,sequelize" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,figma,linux,npm,markdown,anaconda" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=git,figma,linux,npm,markdown,anaconda,vite" align="center" /> <br> <br> 
    <br>
 </div> 
 <hr>
