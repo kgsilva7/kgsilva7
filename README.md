@@ -29,7 +29,7 @@
    <br>
   <h2>Databases:</h2>  
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,firebase" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Learning At The Moment:</h2>
@@ -39,7 +39,7 @@
 </div> 
   <h2>Frameworks:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express,react" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Tools:</h2>
