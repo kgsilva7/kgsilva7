@@ -39,12 +39,12 @@
 </div> 
   <h2>Frameworks:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,express" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,nodejs" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,figma,linux,npm,sequelize,jest,vite,markdown,anaconda" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=git,figma,linux,npm,prisma,sequelize,jest,vite,markdown,anaconda" align="center" /> <br> <br> 
    <br>
 </div> 
 <hr>
