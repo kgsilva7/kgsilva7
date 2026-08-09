@@ -22,7 +22,7 @@
 <h2>Integrated Development Environments (IDE):</h2>
 <div align="left">
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,arduino,androidstudio" align="left" /> <br> <br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,arduino,androidstudio,pycharm" align="left" /> <br> <br>
    <br>
   <h2>Databases:</h2>  
 <div align="left">
@@ -36,7 +36,7 @@
 </div> 
   <h2>Frameworks:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,nodejs,laravel" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,nodejs,laravel,angular" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Tools:</h2>
