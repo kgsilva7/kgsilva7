@@ -3,20 +3,11 @@
 <h2>A Little About Me:</h2>
 - (B1) Intermediate Level in English – Currently studying at the WIZARD school. <br>
 - Working to solve technology problems and viable solutions for use.  <br>
-- Interested in FullStack development and developing web solutions. <br>
+- Interested in FullStack development, Cybersecurity and developing web solutions. <br>
 - Currently studying Systems Development at ETEC da Zona Leste (A.E Carvalho).  <br>
 - IA enthusiast – I`m enhancing my Back-End and Front-End skills. <br>
 - Passionate about task automations and Web development in the technology area.  <br>
 - Learning about new technologies and striving to be the best. <br>
-<hr>
-<div align="left">
-<div align="center">  
-<img src="https://streak-stats.demolab.com?user=kgsilva7&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <hr>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kgsilva7&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <div align="center">
-</div>
-</div>
 <hr>
 <div style="display: flex";>
 <h2>Integrated Development Environments (IDE):</h2>
@@ -26,7 +17,7 @@
    <br>
   <h2>Databases:</h2>  
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,firebase" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,firebase,mongodb" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Learning At The Moment:</h2>
