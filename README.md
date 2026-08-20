@@ -27,7 +27,7 @@
 </div> 
   <h2>Frameworks:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,nodejs,laravel" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,nodejs,laravel,react" align="center" /> <br> <br> 
    <br>
 </div>
   <h2>Tools:</h2>
