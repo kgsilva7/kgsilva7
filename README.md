@@ -1,7 +1,7 @@
 <br clear="both">
 <h1> 💻 <strong>Gustavo | FullStack Developer</strong> </h1>
 <h2>A Little About Me:</h2>
-- (B2) Upper Intermediate Level in English – Currently studying at the WIZARD school (W8). <br>
+- (B2) Upper Intermediate Level in English – Currently studying at the WIZARD school in W8 book. <br>
 - Working to solve technology problems and viable solutions for use.  <br>
 - Interested in FullStack development, Cybersecurity and developing web solutions. <br>
 - Currently studying Systems Development at ETEC da Zona Leste (A.E Carvalho).  <br>
